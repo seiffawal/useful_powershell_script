@@ -7,7 +7,7 @@
    - Identifies the most famous APIs that malware commonly uses.
   
 **3. Spyware Script (Not Finished)**
-   - A work-in-progress PowerShell script designed to detect and potentially remove spyware.
+   - A work-in-progress PowerShell script .
 
 **4. Show WiFi Password**
    - Utilizes the `netstat` command-line tool to display WiFi password information.
