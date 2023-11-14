@@ -1,4 +1,13 @@
-# useful_powershell_script
-pomodoro script for study 
-api detector most famoues api that malewares use
-spyware script not finished
+# Useful PowerShell Scripts
+
+**1. Pomodoro Script for Study**
+   - A PowerShell script for implementing the Pomodoro Technique, with a focus on study and break intervals.
+
+**2. API Detector**
+   - Identifies the most famous APIs that malware commonly uses.
+  
+**3. Spyware Script (Not Finished)**
+   - A work-in-progress PowerShell script designed to detect and potentially remove spyware.
+
+**4. Show WiFi Password**
+   - Utilizes the `netstat` command-line tool to display WiFi password information.
